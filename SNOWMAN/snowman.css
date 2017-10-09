@@ -4,8 +4,7 @@
 
  }
 	
-
-.top {
+p {
 	border-radius: 50%;
 	width: 150px;
 	height: 150px;
@@ -14,7 +13,7 @@
 	margin: auto; 
 }
 	
-.middle {
+a {
 	border-radius: 50%;
 	width: 200px;
 	height: 200px;	
@@ -24,7 +23,7 @@
 	margin: auto;
 }
 	
-.bottom {
+div {
 	border-radius: 50%;
 	width: 250px;
 	height: 250px;	
