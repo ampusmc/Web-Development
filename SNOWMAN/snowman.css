@@ -1,0 +1,36 @@
+ body {
+	
+	background-color: blue;
+
+ }
+	
+
+.top {
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	border: 2px solid black;
+	margin: auto; 
+}
+	
+.middle {
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;	
+	background-color: white;
+	border: 2px solid black;
+	display: block;
+	margin: auto;
+}
+	
+.bottom {
+	border-radius: 50%;
+	width: 250px;
+	height: 250px;	
+	background-color: white;
+	border: 2px solid black;
+	margin: auto;
+		
+}
+
